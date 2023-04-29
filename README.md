@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nickson35
-- 👀 I’m interested in front end developing ...
-- 🌱 I’m currently learning javascript and php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning React and next.js
 
 <!---
 nickson35/nickson35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
